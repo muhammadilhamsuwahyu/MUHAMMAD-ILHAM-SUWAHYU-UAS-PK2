@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form simpel desainkit</title>
+    <title>Form simpel desain</title>
     <link rel="stylesheet" type="text/css" href="../css/style.css">
     <script src="../js/script.js"></script>
 </head>
@@ -19,7 +19,6 @@
         <a href="#">BLOG</a>
         <a href="pages/about.html">ABOUT</a>
         <a href="pages/form.php">BUKU TAMU</a>
-        <a href="https://desainkit.com/template-powerpoint/" target="_blank" class="right">TEMPLATE PPT</a>
     </div>
 
     <div class="main">
@@ -55,7 +54,7 @@
     <button onclick="topFunction()" id="gotoTop" title="Go to top">&#8593;</button>
 
     <div class="footer">
-        <b>&#169; 2021 DesainKit • Dibuat dengan &#10084;&#65039; oleh <a href="https://desainkit.com/contact/" target="_blank">Ahnafudin</a></b>
+        <b>&#169; 2021 Desain • Dibuat dengan &#10084;&#65039; oleh Pembuat Seni</a></b>
     </div>
 </body>
 
